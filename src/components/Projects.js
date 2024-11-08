@@ -11,7 +11,7 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Facebook clone",
+      title: "Facebook UI",
       description: "Design & Development with Flutter",
       imgUrl: projImg1,
     },
